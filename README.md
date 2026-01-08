@@ -37,13 +37,6 @@ Generate QR codes for:
 
 ---
 
-## 🖼️ UI Preview
-
-> The UI is designed to feel **futuristic, eye-catching, and unique**, avoiding generic SaaS templates.  
-> QR preview acts as the hero element, with a control-panel-style interface.
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
